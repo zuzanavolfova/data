@@ -8,6 +8,14 @@
     "buttonWebRedirect": null
   },
   {
+    "cardTitle": "React, Typescript",
+    "cardImage": "MusicalNotes.webp",
+    "cardDescriptionShort": "React, Javascript, Typescript",
+    "cardDescription": " React, JavaScript, Typescript HTML, CSS, SASS",
+    "buttonRedirect": "https://github.com/zuzanavolfova/musical-notes",
+    "buttonWebRedirect": "https://zuzanavolfova.github.io/musical-notes/"
+  },
+  {
     "cardTitle": "crafting-butterfly",
     "cardImage": "tvoreni.webp",
     "cardDescriptionShort": "crafting-butterfly",
